@@ -5,7 +5,7 @@
     aria-label="Main navigation"
   >
     <div class="container">
-      <a class="navbar-brand logo-text" href="#">Masuk Mia</a>
+      <a class="navbar-brand logo-text" href="#">Med + Care</a>
       <button
         class="navbar-toggler p-0 border-0"
         type="button"
@@ -40,19 +40,17 @@
               id="dropdown01"
               data-bs-toggle="dropdown"
               aria-expanded="false"
-              >Drop</a
+              >More</a
             >
             <ul class="dropdown-menu" aria-labelledby="dropdown01">
-              <li><a class="dropdown-item" href="#">Article Details</a></li>
+              <li><a class="dropdown-item" href="#">About Us</a></li>
               <li><div class="dropdown-divider"></div></li>
-              <li><a class="dropdown-item" href="#">Terms Conditions</a></li>
-              <li><div class="dropdown-divider"></div></li>
-              <li><a class="dropdown-item" href="#">Privacy Policy</a></li>
+              <li><a class="dropdown-item" href="#">Contact</a></li>
             </ul>
           </li>
         </ul>
         <span class="nav-item">
-          <a class="btn-solid-sm" href="#contact">Get quote</a>
+          <a class="btn-solid-sm" href="#contact">Book Appointment</a>
         </span>
       </div>
     </div>
@@ -62,20 +60,21 @@
       <div class="row">
         <div class="col-lg-6 col-xl-5">
           <div class="text-container">
-            <h1 class="h1-large">Find influencers for your products</h1>
+            <h1 class="h1-large">Schedule Your Medical Appointments</h1>
             <p class="p-large">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-              dignissim, neque ut ultrices sollicitudin
+              Book appointments with ease and convenience. Get the care you need
+              today.
             </p>
-            <a class="btn-solid-lg" href="#services">Offered services</a>
+            <a class="btn-solid-lg" href="#services">Our Services</a>
           </div>
         </div>
         <div class="col-lg-6 col-xl-7">
           <div class="image-container">
             <img
               class="img-fluid"
-              src="assets/images/header-image.png"
-              alt="alternative"
+              src="assets/images/main-doctor.png"
+              alt="medical professional"
+              style=""
             />
           </div>
         </div>
@@ -86,20 +85,20 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2>Explore our services</h2>
+          <h2>Explore Our Medical Services</h2>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-12">
           <div class="card">
             <div class="card-icon">
-              <span class="fas fa-headphones-alt"></span>
+              <span class="fas fa-stethoscope"></span>
             </div>
             <div class="card-body">
-              <h5 class="card-title">Analyse your product</h5>
+              <h5 class="card-title">General Checkups</h5>
               <p>
-                Et blandit nisl libero at arcu. Donec ac lectus sed tellus
-                mollis viverra. Nullam pharetra ante at nunc elementum
+                Regular health checkups are essential for maintaining your
+                well-being.
               </p>
               <a class="read-more no-line" href="#"
                 >Learn more <span class="fas fa-long-arrow-alt-right"></span
@@ -109,14 +108,11 @@
 
           <div class="card">
             <div class="card-icon red">
-              <span class="far fa-clipboard"></span>
+              <span class="far fa-heart"></span>
             </div>
             <div class="card-body">
-              <h5 class="card-title">Evaluate opportunities</h5>
-              <p>
-                Vulputate nibh feugiat. Morbi pellent diam nec libero lacinia,
-                sed ultrices velit scelerisque. Nunc placerat justo sem
-              </p>
+              <h5 class="card-title">Cardiology Services</h5>
+              <p>Specialized care for heart-related conditions and diseases.</p>
               <a class="read-more no-line" href="#"
                 >Learn more <span class="fas fa-long-arrow-alt-right"></span
               ></a>
@@ -125,13 +121,12 @@
 
           <div class="card">
             <div class="card-icon green">
-              <span class="far fa-comments"></span>
+              <span class="fas fa-user-md"></span>
             </div>
             <div class="card-body">
-              <h5 class="card-title">Find the influencers</h5>
+              <h5 class="card-title">Specialist Consultations</h5>
               <p>
-                Ety suscipit metus sollicitudin euqu isq imperdiet nibh nec
-                magna tincidunt, nec pala vehicula neque sodales verum
+                Consult with experienced specialists for specific medical needs.
               </p>
               <a class="read-more no-line" href="#"
                 >Learn more <span class="fas fa-long-arrow-alt-right"></span
@@ -150,21 +145,19 @@
             <img
               class="img-fluid"
               src="assets/images/details-1.png"
-              alt="alternative"
+              alt="medical equipment"
             />
           </div>
         </div>
         <div class="col-lg-6 col-xl-5">
           <div class="text-container">
-            <div class="section-title">WHAT WE DO</div>
-            <h2>The right influencer can boost your conversion</h2>
+            <div class="section-title">WHAT WE OFFER</div>
+            <h2>Comprehensive Healthcare Services</h2>
             <p>
-              Etiam tempus condimentum congue. In sit amet nisi eget massa
-              condimentum lobortis eget ac eros. In hac habitasse platea
-              dictumst. Aenean molestie mauris eget sapien sagittis, a bibendum
-              magna tincidunt
+              Our medical professionals provide top-notch care and treatments
+              for your well-being.
             </p>
-            <a class="btn-solid-reg" href="#contact">Get quote</a>
+            <a class="btn-solid-reg" href="#contact">Contact Us</a>
           </div>
         </div>
       </div>
@@ -175,15 +168,18 @@
       <div class="row">
         <div class="col-lg-6 col-xl-5">
           <div class="text-container">
-            <div class="section-title">ABOUT US</div>
-            <h2>We have ten years experience in marketing</h2>
+            <div class="section-title">ABOUT OUR MEDICAL SERVICE</div>
+            <h2>Decades of Medical Expertise</h2>
             <p>
-              Etiam tempus condimentum congue. In sit amet nisi eget massa
+              Our team of experienced medical professionals has been dedicated
+              to providing high-quality healthcare services for many years. We
+              are committed to your health and well-being, offering top-notch
+              medical care to all our patients. In sit amet nisi eget massa
               condimentum lobortis eget ac eros. In hac habitasse platea
               dictumst. Aenean molestie mauris eget sapien sagittis, a bibendum
-              magna tincidunt
+              magna tincidunt.
             </p>
-            <a class="btn-outline-reg" href="#">Details</a>
+            <a class="btn-outline-reg" href="#">Learn More</a>
           </div>
         </div>
         <div class="col-lg-6 col-xl-7">
@@ -202,11 +198,13 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-12">
-          <h2 class="h2-heading">Online service features</h2>
+          <h2 class="h2-heading">Key Medical Service Features</h2>
           <p class="p-heading">
-            Suspendisse vitae enim arcu. Aliquam convallis risus a felis
-            blandit, at mollis nisi bibendum. Aliquam nec purus at ex blandit
-            posuere nec a odio. Proin lacinia dolor justo
+            Our medical service offers a range of essential features to ensure
+            your well-being and health. Suspendisse vitae enim arcu. Aliquam
+            convallis risus a felis blandit, at mollis nisi bibendum. Aliquam
+            nec purus at ex blandit posuere nec a odio. Proin lacinia dolor
+            justo.
           </p>
         </div>
       </div>
@@ -226,7 +224,7 @@
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                  Analyse the product and design plan
+                  Comprehensive Medical Analysis
                 </button>
               </div>
               <div
@@ -236,9 +234,11 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                  Mauris ornare libero et pharetra hendrerit. Cura elementum
-                  lectus quis tellus pretium, vitae lobortis dui sagittis
-                  aliquam et enim vel semon anticus
+                  We conduct thorough medical analyses and design personalized
+                  healthcare plans tailored to your needs. Mauris ornare libero
+                  et pharetra hendrerit. Cura elementum lectus quis tellus
+                  pretium, vitae lobortis dui sagittis aliquam et enim vel semon
+                  anticus.
                 </div>
               </div>
             </div>
@@ -256,7 +256,7 @@
                   aria-expanded="false"
                   aria-controls="collapseTwo"
                 >
-                  Find the market opportunities
+                  Identifying Health Opportunities
                 </button>
               </div>
               <div
@@ -266,9 +266,11 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                  Mauris ornare libero et pharetra hendrerit. Cura elementum
-                  lectus quis tellus pretium, vitae lobortis dui sagittis
-                  aliquam et enim vel semon anticus
+                  We help you discover potential health opportunities and
+                  provide guidance on how to address them. Mauris ornare libero
+                  et pharetra hendrerit. Cura elementum lectus quis tellus
+                  pretium, vitae lobortis dui sagittis aliquam et enim vel semon
+                  anticus.
                 </div>
               </div>
             </div>
@@ -286,7 +288,7 @@
                   aria-expanded="false"
                   aria-controls="collapseThree"
                 >
-                  Prepare the product launch campaign
+                  Productive Health Campaigns
                 </button>
               </div>
               <div
@@ -296,9 +298,10 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                  Mauris ornare libero et pharetra hendrerit. Cura elementum
-                  lectus quis tellus pretium, vitae lobortis dui sagittis
-                  aliquam et enim vel semon anticus
+                  We work on preparing effective health campaigns to promote
+                  your overall well-being. Mauris ornare libero et pharetra
+                  hendrerit. Cura elementum lectus quis tellus pretium, vitae
+                  lobortis dui sagittis aliquam et enim vel semon anticus.
                 </div>
               </div>
             </div>
@@ -316,7 +319,7 @@
                   aria-expanded="false"
                   aria-controls="collapseFour"
                 >
-                  Evaluate the campaign and adjust
+                  Continuous Monitoring and Adjustment
                 </button>
               </div>
               <div
@@ -326,9 +329,11 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                  Mauris ornare libero et pharetra hendrerit. Cura elementum
-                  lectus quis tellus pretium, vitae lobortis dui sagittis
-                  aliquam et enim vel semon anticus
+                  We continuously evaluate your health campaign's progress and
+                  make adjustments to ensure the best outcomes. Mauris ornare
+                  libero et pharetra hendrerit. Cura elementum lectus quis
+                  tellus pretium, vitae lobortis dui sagittis aliquam et enim
+                  vel semon anticus.
                 </div>
               </div>
             </div>
@@ -363,11 +368,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                The medical care I received was exceptional. I'm grateful for
+                the dedicated team.
               </p>
               <div class="testimonial-author">Roe Smith</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor red-to-blue"></div>
           </div>
@@ -380,11 +384,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                The staff is friendly and professional. They made me feel
+                comfortable throughout my treatment
               </p>
               <div class="testimonial-author">Sam Bloom</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor blue-to-purple"></div>
           </div>
@@ -397,11 +400,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                I can't thank the medical service enough for their support
+                during my recovery
               </p>
               <div class="testimonial-author">Bill McKenzie</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor purple-to-green"></div>
           </div>
@@ -414,11 +416,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                Their expertise and care have made a significant difference in
+                my life.
               </p>
               <div class="testimonial-author">Vanya Dropper</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor red-to-blue"></div>
           </div>
@@ -431,11 +432,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                I appreciate the personalized approach to my health. Highly
+                recommend!
               </p>
               <div class="testimonial-author">Lefty Brown</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor blue-to-purple"></div>
           </div>
@@ -448,11 +448,10 @@
             />
             <div class="card-body">
               <p class="testimonial-text">
-                Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                blandit, at mollis nisi bibendum aliquam noto ricos
+                The medical team is top-notch. They truly go above and beyond
+                for their patients.
               </p>
               <div class="testimonial-author">Susane Blake</div>
-              <div class="occupation">General Manager, Presentop</div>
             </div>
             <div class="gradient-floor purple-to-green"></div>
           </div>
