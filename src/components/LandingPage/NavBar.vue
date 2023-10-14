@@ -5,7 +5,7 @@
     aria-label="Main navigation"
   >
     <div class="container">
-      <a class="navbar-brand logo-text" href="#">Masuk Mia</a>
+      <a class="navbar-brand logo-text" href="#">Med + Care</a>
       <button
         class="navbar-toggler p-0 border-0"
         type="button"
@@ -40,21 +40,21 @@
               id="dropdown01"
               data-bs-toggle="dropdown"
               aria-expanded="false"
-              >Drop</a
+              >More</a
             >
             <ul class="dropdown-menu" aria-labelledby="dropdown01">
-              <li><a class="dropdown-item" href="#">Article Details</a></li>
+              <li><a class="dropdown-item" href="#">About Us</a></li>
               <li><div class="dropdown-divider"></div></li>
-              <li><a class="dropdown-item" href="#">Terms Conditions</a></li>
-              <li><div class="dropdown-divider"></div></li>
-              <li><a class="dropdown-item" href="#">Privacy Policy</a></li>
+              <li><a class="dropdown-item" href="#">Contact</a></li>
             </ul>
           </li>
         </ul>
         <span class="nav-item">
-          <a class="btn-solid-sm" href="#contact">Get quote</a>
+          <a class="btn-solid-sm" href="#contact">Book Appointment</a>
         </span>
       </div>
     </div>
   </nav>
 </template>
+
+<script setup lang="ts"></script>
