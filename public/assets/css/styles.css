@@ -928,7 +928,6 @@ a:hover {
 /*     Extra Pages     */
 /***********************/
 .ex-header {
-	padding-top: 9rem;
 	padding-bottom: 5rem;
 	background-color: #fcfafb;
 }
@@ -986,7 +985,6 @@ a:hover {
 
 	/* Header */
 	.header {
-		padding-top: 9rem;
 		padding-bottom: 5em;
 	}
 
@@ -1240,7 +1238,7 @@ a:hover {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 20.25rem;
+		padding-top: 12.25rem;
 		padding-bottom: 15rem;
 	}
 
